@@ -18,6 +18,9 @@ Atualizar as dependências, exemplo com o NPM:
 npm install
 </pre>
 
+# Configuração Banco de dados
+Editar o arquivo de configuração do banco de dados em ./src/config/db.js
+
 # Utilização
 Basta rodar o arquivo index.js
 
